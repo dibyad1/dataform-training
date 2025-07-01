@@ -1,0 +1,5 @@
+defaultProject: gcp-project-408414
+defaultLocation: US
+defaultDataset: dataform
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.0
